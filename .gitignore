@@ -1,0 +1,15 @@
+node_modules
+dist
+junk*
+
+
+# SSL certificates
+*.pem
+*.crt
+*.key
+ca.pem
+
+# Environment files
+.env
+.env.local
+.env.production
